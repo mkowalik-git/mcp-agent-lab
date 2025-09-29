@@ -104,7 +104,7 @@ Simpler than your morning coffee routine:
 
 1. **Clone this bad boy**
    ```bash
-   git clone https://github.com/yourusername/mcp-agent-lab.git
+   git clone https://github.com/mkowalik-git/mcp-agent-lab.git
    cd mcp-agent-lab
    # You're basically an AI engineer now 🎓
    ```

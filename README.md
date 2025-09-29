@@ -12,6 +12,9 @@ This interactive lab takes you on a journey through the Model Context Protocol (
 
 **The Plot Twist:** We're not using some toy database or mock APIs. We're using Oracle Database 23ai Free with SQLcl MCP, because when you're teaching agents to interact with the real world, you might as well use enterprise-grade technology. It's like learning to drive in a Tesla instead of a golf cart.
 
+<img width="1407" height="1200" alt="image" src="https://github.com/user-attachments/assets/ba4d0863-b110-4a3c-ac23-6902cda175eb" />
+
+
 ## ✨ Features (The Actually Cool Stuff)
 
 ### 🧪 Complete MCP Journey

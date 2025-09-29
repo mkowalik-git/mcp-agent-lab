@@ -261,4 +261,4 @@ See the [LICENSE](LICENSE) file for legal stuff.
 
 *P.P.S. - Yes, agents are this cool. No, we're not exaggerating. Yes, Oracle Database + MCP is a surprisingly good combo.*
 
-*P.P.P.S. - Remember: With great agent power comes great responsibility. Use MCP wisely.*
+*P.P.P.S. - Remember: With great agent power comes great responsibility. Use MCP wisely.* 

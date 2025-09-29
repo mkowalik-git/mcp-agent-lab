@@ -39,15 +39,6 @@ Because learning should involve clicking buttons and watching cool animations.
 - **Progress tracking** - Level up your MCP knowledge step by step
 - **Oracle Redwood design** - Professional Enterprise UI that doesn't hurt your eyes
 
-### 🎨 Oracle-Themed Aesthetics
-We spent way too much time making this look professional.
-
-- Oracle Redwood approved color palette (because branding matters)
-- Smooth animations that make database interactions look sexy
-- Dark theme because developers live in darkness
-- Responsive design that works on mobile (for learning on the go)
-- Enterprise vibes without the enterprise complexity
-
 ## 🤯 Why MCP + Oracle Database 23ai?
 
 ### The "This Changes Everything" Moment

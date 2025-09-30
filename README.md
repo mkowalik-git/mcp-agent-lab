@@ -253,6 +253,6 @@ See the [LICENSE](LICENSE) file for legal stuff.
 
 *P.S. - If you made it this far, you're officially ready to build production agent systems. Go forth and automate!*
 
-*P.P.S. - Yes, agents are this cool. No, we're not exaggerating. Yes, Oracle Database + MCP is a surprisingly good combo.*
+*P.P.S. - Yes, agents are this cool. No, we're not exaggerating. Yes, Oracle Database + MCP is a winning combo.*
 
 *P.P.P.S. - Remember: With great agent power comes great responsibility. Use MCP wisely.* 
